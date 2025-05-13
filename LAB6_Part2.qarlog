@@ -1,0 +1,32 @@
+Quartus Prime Archive log --	C:/Users/pablo/Desktop/Lab6_2/LAB6_Part2.qarlog
+
+Archive:	C:/Users/pablo/Desktop/Lab6_2/LAB6_Part2.qar
+Date:		Mon Apr 10 21:14:38 2023
+Quartus Prime		19.1.0 Build 670 09/22/2019 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/pablo/Desktop/Lab6_2/Block1.bdf
+C:/Users/pablo/Desktop/Lab6_2/Block2.bdf
+C:/Users/pablo/Desktop/Lab6_2/LAB_Part2.qpf
+C:/Users/pablo/Desktop/Lab6_2/LAB_Part2.qsf
+C:/Users/pablo/Desktop/Lab6_2/LAB_Part2.vhd
+C:/Users/pablo/Desktop/Lab6_2/Lab2Rom.bsf
+C:/Users/pablo/Desktop/Lab6_2/Lab2Rom.cmp
+C:/Users/pablo/Desktop/Lab6_2/Lab2Rom.qip
+C:/Users/pablo/Desktop/Lab6_2/Lab2Rom.vhd
+C:/Users/pablo/Desktop/Lab6_2/Waveform.vwf
+C:/Users/pablo/Desktop/Lab6_2/Waveform1.vwf
+C:/Users/pablo/Desktop/Lab6_2/Waveform2.vwf
+C:/Users/pablo/Desktop/Lab6_2/contents.mif
+C:/Users/pablo/Desktop/Lab6_2/lab4_ralu.bdf
+c:/intelfpga_lite/19.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 15 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Apr 11 11:58:20 2023
+Source archive file:	C:/Users/pablo/Desktop/Lab6_2/LAB6_Part2.qar
+Archive was extracted into	C:/Users/pablo/Desktop/Lab6_2/LAB6_Part2_restored/
+		 - successfully.
